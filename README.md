@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in law level embedded such as FPGA, assembly and Artificial Intelligence .
+- ✍️ &nbsp; Enjoy a little 3D modeling
 - ☕ &nbsp; I belive, a perfect cup of monster can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
